@@ -1,0 +1,114 @@
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+ @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@600&display=swap');
+ 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+
+body {
+  font-family: system-ui;
+  background: #E6CB87;
+  color: black;
+  text-align: center;
+  font-size: 100px;
+  padding: 100px;
+}
+
+#image-1{
+  
+ border: 10px solid black;
+  height: 300px;
+  width: 300px;
+  margin-left: -30px;
+  margin-top: 100px;
+  background-size: 100px;
+  
+}
+#on{
+  font-size: 30px;
+  margin-top: -300px;
+  margin-left: -1000px;
+  color: Brown;
+  padding-top: 50px;
+  
+  
+  
+}
+
+
+#tw{
+  
+  font-size: 30px;
+  font-size: 30px;
+  margin-top: -50px;
+  margin-left: -1000px;
+  color: Brown;
+  padding-top: 50px;
+}
+
+
+#th{
+  
+  font-size: 30px;
+  margin-top: -50px;
+  margin-left: -1000px;
+  color: Brown;
+  padding-top: 50px;
+
+  }
+
+
+#f{
+  font-size: 30px;
+   font-size: 30px;
+  margin-top: -50px;
+  margin-left: -1000px;
+  color: Brown;
+  padding-top: 50px;
+  
+  
+}
+
+#tot{
+  
+ font-size: 30px;
+  
+   font-size: 30px;
+  margin-top: -50px;
+  margin-left: -1000px;
+  color: Brown;
+  padding-top: 50px;
+  
+  
+  
+}
+
+
+.blank{
+   font-size: 30px;
+  
+  margin-left: -1000px;
+  color: Brown;
+  
+  }
+
+#z{
+  height: 200px;
+  width: 200px;
+  margin-left: -30px;
+}
+
+
+.img-list{
+  background:#F0D651;
+  border: 5px solid black;
+  height: 600px;
+  width: 300px;
+  margin-left: 900px;
+  margin-top: -440px;
+  padding-left: 10px;
+  font-size: 20px;
+  text-align: left;
+}
+

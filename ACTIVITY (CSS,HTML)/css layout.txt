@@ -1,0 +1,49 @@
+css layouts
+
+
+
+<div class = "first-box"></div> <"bottom"
+<div class = "second-box"></div>
+<div class = "second-box"></div> <"top
+
+
+
+
+
+.firstbox {
+
+height:200 px;
+width: 200px;
+background -color: red;
+border: 10px solid black;
+margin-top: 50px; (downwards)
+border- radius (circle) 50px;
+}
+
+
+.secondbox{
+
+height:200 px;
+width: 200px;
+background -color: blue;
+border: 10px solid black;
+margin-top: 50px;
+
+}
+
+
+
+"-50" overlap
+- upwards margin top
+margin left ( right )
+
+relativity - relation to one another
+
+
+
+body {
+
+text-align center
+
+h1
+background color black
